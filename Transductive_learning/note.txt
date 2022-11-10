@@ -1,0 +1,1 @@
+python main.py --h_dim 32 --batch-size 10240 --n_epochs 3  --train_test_split 0.10

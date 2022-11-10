@@ -1,0 +1,5 @@
+Input Notebook:  run_0.10.ipynb
+Output Notebook: out_0.10.ipynb
+Executing:   0%|                                                                      | 0/2 [00:00<?, ?cell/s]Executing notebook with kernel: python3
+Executing:  50%|███████████████████████████████                               | 1/2 [00:04<00:04,  4.87s/cell]Autosave too slow: 7.58 sec, over 25% limit. Backing off to 60 sec
+Executing: 100%|██████████████████████████████████████████████████████████| 2/2 [4:59:08<00:00, 5386.37s/cell]Executing: 100%|██████████████████████████████████████████████████████████| 2/2 [4:59:11<00:00, 8975.65s/cell]
